@@ -14,8 +14,8 @@
 #include <pcl/registration/icp_nl.h>
 #include <pcl/registration/transforms.h>
 
-#include"E:\Schweizer\PCL\PCLSchweizer\Build\globalRegistration\closeLoop.h"
-#include "E:\Schweizer\PCL\PCLSchweizer\Build\globalRegistration\optimize.h"
+#include"E:\Schweizer\PCLBuild\globalRegistration\closeLoop.h"
+#include "E:\Schweizer\PCLBuild\globalRegistration\optimize.h"
 
 using namespace std;
 
